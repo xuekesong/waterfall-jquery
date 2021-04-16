@@ -1,0 +1,11 @@
+.box-content{
+  position: relative;
+}
+.box{
+  padding: 10px;
+  float: left;
+}
+img{
+  vertical-align: top;
+  width: 100%;
+}
