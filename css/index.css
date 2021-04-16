@@ -4,6 +4,7 @@
 .box{
   padding: 10px;
   float: left;
+  width: 200px;
 }
 img{
   vertical-align: top;
